@@ -6,14 +6,15 @@
 
 ### This Repo is based on:
 
-- Freecodecamp YouTube video: [Code Tetris: JavaScript Tutorial for Beginners](https://www.youtube.com/watch?v=rAUn1Lom6dw), also see [Tetris Basic on GitHub](https://github.com/kubowania/Tetris-Basic) to this
+- Freecodecamp YouTube video: [Code Tetris: JavaScript Tutorial for Beginners](https://www.youtube.com/watch?v=rAUn1Lom6dw)
+- also see [Tetris Basic on GitHub](https://github.com/kubowania/Tetris-Basic)
 - originally found here: [FreeCodeCamp article](https://www.freecodecamp.org/news/learn-javascript-by-creating-a-tetris-game/)
 
 ### How to run this?
 
 - clone this repo
 - cd into project
-- simply open the `index.html` in your browser of choice (in my case, built in/for Chrome), as the project files are not bundled / do not run with any `run` command
+- open index.html in your browser of choice (in my case, built in/ for Chrome)
 
 ### How to play the game?
 
@@ -92,7 +93,6 @@ lTetromino
 - short (time constraints)
 - easy to code along
 - quick to get done
-- based on everything I've encountered on freecodecamp by now, which was mostly very valuable, so when I got this suggestion handed in and saw the length of the course I decided to go for it
 
 ### PRO
 
